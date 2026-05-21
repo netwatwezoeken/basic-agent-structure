@@ -1,0 +1,1 @@
+[Generic agent AI entrypoint](AGENTS.md)
